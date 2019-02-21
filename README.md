@@ -1,0 +1,2 @@
+# SwiftyBase
+Swift base class
